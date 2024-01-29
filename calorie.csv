@@ -1,0 +1,110 @@
+food,carbohydrate(g),protein(g),fat(g),calorie(kcal),dietary fiber,category
+1 bowl of white rice (280),60,8,0,280,,grains
+1 white steamed bun (280),60,8,0,280,,grains
+1 whole wheat steamed bun(210),45,6,0,210,,grains
+1 corn (210),45,6,0,210,,grains
+1 bowl of porridge (140),30,4,0,140,,grains
+1 bowl of glass noodles (140),30,4,0,140,,grains
+1 bowl of rice noodles (140),30,4,0,140,,grains
+1 bowl of macaroni (140),30,4,0,140,,grains
+1 bowl of sweet potato (140),30,4,0,140,,grains
+1 bowl of taro (140),30,4,0,140,,grains
+1 bowl of pumpkin (140),30,4,0,140,,grains
+1 potato (140),30,4,0,140,,grains
+1 bowl of white noodles (70),15,2,0,70,,grains
+1 loaf of toast (70),15,2,0,70,,grains
+2 tbsp of red/green beans (70),15,2,0,70,,grains
+2 tbsp of glutinous rice balls(70),15,2,0,70,,grains
+2 tbsp of tapioca balls (70),15,2,0,70,,grains
+3 tbsp of oatmeal (70),15,2,0,70,,grains
+,,,,,,
+1 mango (240),60,0,0,240,,fruits
+1 cantaloupe (240),60,0,0,240,,fruits
+1 papaya (240),60,0,0,240,,fruits
+1 banana (120),30,0,0,120,,fruits
+1 guava (120),30,0,0,120,,fruits
+1 persimmon (120),30,0,0,120,,fruits
+1 starfruit (120),30,0,0,120,,fruits
+1 small apple (60),15,0,0,60,,fruits
+1 orange (60),15,0,0,60,,fruits
+1 peach (60),15,0,0,60,,fruits
+1 tangerine (60),15,0,0,60,,fruits
+1 kiwi (60),15,0,0,60,,fruits
+8 grapes (60),15,0,0,60,,fruits
+1 pear (60),15,0,0,60,,fruits
+9 cherries (60),15,0,0,60,,fruits
+12 longans (60),15,0,0,60,,fruits
+1 bowl of red watermelon (60),15,0,0,60,,fruits
+15 small tomatoes (60),15,0,0,60,,fruits
+1 jujube (60),15,0,0,60,,fruits
+1 lychee (20),5,0,0,20,,fruits
+1 wax apple (20),5,0,0,20,,fruits
+1 piece of pomelo (20),5,0,0,20,,fruits
+,,,,,,
+Cabbage 100g (25),5,1,0,25,1.3,vegetable
+Water spinach 100g (25),5,1,0,25,1.3,vegetable
+Green pepper 100g (25),5,1,0,25,1.3,vegetable
+Bitter melon 100g (25),5,1,0,25,1.3,vegetable
+Napa cabbage 100g (25),5,1,0,25,1.3,vegetable
+Bok choy 100g (25),5,1,0,25,1.3,vegetable
+lettuce 100g (25),5,1,0,25,1.3,vegetable
+luffa 100g (25),5,1,0,25,1.3,vegetable
+yu choy 100g (25),5,1,0,25,1.3,vegetable
+spoon cabbage 100g (25),5,1,0,25,1.3,vegetable
+bean sprouts 100g (25),5,1,0,25,1.3,vegetable
+chive 100g (25),5,1,0,25,1.3,vegetable
+broccoli 100g (25),5,1,0,25,1.3,vegetable
+bean sprouts 100g (25),5,1,0,25,1.3,vegetable
+spinach 100g (25),5,1,0,25,1.3,vegetable
+green beans 100g (25),5,1,0,25,1.3,vegetable
+sweet potato leaf 100g (25),5,1,0,25,1.3,vegetable
+enoki mushroom 100g (25),5,1,0,25,1.3,vegetable
+enoki mushroom 100g (25),5,1,0,25,1.3,vegetable
+shiitake mushroom 100g (25),5,1,0,25,1.3,vegetable
+white mushroom(25),5,1,0,25,1.3,vegetable
+bamboo 100g (25),5,1,0,25,1.3,vegetable
+,,,,,,
+sugared soy milk (155),25,7,3,155,,meat and beans
+beef brisket 50g (120),0,7,10,120,,meat and beans
+cod 50g (120),0,7,10,120,,meat and beans
+saury 50g (120),0,7,10,120,,meat and beans
+gluten 20g (120),0,7,10,120,,meat and beans
+a slice of cheese (120),0,7,10,120,,meat and beans
+3 pieces of short ribs (75),0,7,5,75,,meat and beans
+1 egg (75),0,7,5,75,,meat and beans
+1/2 box of tofu (75),0,7,5,75,,meat and beans
+edamame 45g (75),0,7,5,75,,meat and beans
+3 slices of dried tofu (75),0,7,5,75,,meat and beans
+2 pieces of fried tofu (75),0,7,5,75,,meat and beans
+milkfish 50g (75),0,7,5,75,,meat and beans
+2 table spoons of pork floss (75),0,7,5,75,,meat and beans
+chicken wings 35g (75),0,7,5,75,,meat and beans
+Sugar-free soy milk 260cc (55),0,7,3,55,,meat and beans
+chicken breast 50g (55),0,7,3,55,,meat and beans
+a slice of ham (55),0,7,3,55,,meat and beans
+10 clams (55),0,7,3,55,,meat and beans
+10 shrimps (55),0,7,3,55,,meat and beans
+beef tendon 50g (55),0,7,3,55,,meat and beans
+3 pieces of cuttlefish (55),0,7,3,55,,meat and beans
+,,,,,,
+4 spoons of whole milk powder (150),12,8,8,150,,milk and dairy products
+3 spoons of low-fat milk powder(120),12,8,4,120,,milk and dairy products
+Low fat fresh milk 240cc (120),12,8,4,120,,milk and dairy products
+2 slices of low-fat cheese(120),12,8,4,120,,milk and dairy products
+3 spoons of skimmed milk powder (80),12,8,0,80,,milk and dairy products
+,,,,,,
+1/3 tsp of vegetable oil (45),0,0,5,45,,fats and oils
+1/3 tsp of lard (45),0,0,5,45,,fats and oils
+1/3 tsp of plant-based butter (45),0,0,5,45,,fats and oils
+1 spoon of fresh cream (45),0,0,5,45,,fats and oils
+2 tbsp of watermelon seeds(45),0,0,5,45,,fats and oils
+10 pistachios (45),0,0,5,45,,fats and oils
+5 almonds (45),0,0,5,45,,fats and oils
+10 peanuts (45),0,0,5,45,,fats and oils
+2 raw walnuts (45),0,0,5,45,,fats and oils
+1/3 spoon of peanut powder (45),0,0,5,45,,fats and oils
+1 spoon of almond flour (45),0,0,5,45,,fats and oils
+2 tbsp of sesame seeds (45),0,0,5,45,,fats and oils
+1/2 tsp of sesame paste (45),0,0,5,45,,fats and oils
+1/2 tsp of shacha sauce (45),0,0,5,45,,fats and oils
+1 slice of bacon (45),0,0,5,45,,fats and oils
