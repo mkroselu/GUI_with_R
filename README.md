@@ -47,6 +47,7 @@ For example, if you eat a bowl of rice porridge (140 kcal) and a steamed bun (28
 
 a.	If your goal is to gain weight: After eating for one week but you still maintain weight, then you can eat more since your actual TDEE might be higher than the estimation.
 
+
 b.	If your goal is to lose weight: After eating for one week but you still maintain weight, then you can eat less or exercise more. 
 
 3. The suggested actual calories you take every day is set to be +300 or -300 kcal of TDEE according to your goal.
